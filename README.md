@@ -1,4 +1,8 @@
-## Hi there 👋
+## Daniel Lloyd
+
+### About me
+
+Experienced Cloud, Platform, and Site Reliability engineer with a focus on automation, AWS, Linux, and Kubernetes. Adjunct college instructor (part-time) in Computer Science and Information Systems; teaching Python, BASH, PowerShell, Go, and Linux.
 
 <!--
 **dnlloyd/dnlloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
